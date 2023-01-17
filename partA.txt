@@ -1,0 +1,44 @@
+/u/noaha16/cs429:
+total 4
+drwx------ 8 noaha16 under 4096 Jan 14 14:06 projects
+
+/u/noaha16/cs429/projects:
+total 20
+drwx------ 2 noaha16 under 4096 Jan 14 13:15 proj5
+drwx------ 2 noaha16 under 4096 Jan 14 13:15 proj4
+drwx------ 2 noaha16 under 4096 Jan 14 13:15 proj3
+drwx------ 2 noaha16 under 4096 Jan 14 13:15 proj2
+drwx------ 4 noaha16 under 4096 Jan 14 14:58 proj1
+
+/u/noaha16/cs429/projects/proj5:
+total 0
+
+/u/noaha16/cs429/projects/proj4:
+total 0
+
+/u/noaha16/cs429/projects/proj3:
+total 0
+
+/u/noaha16/cs429/projects/proj2:
+total 0
+
+/u/noaha16/cs429/projects/proj1:
+total 8
+-rw------- 1 noaha16 under 1426 Jan 14 15:10 partA.txt.
+drwx------ 3 noaha16 under 4096 Jan 17 17:16 lb-lab-NoahA26
+
+/u/noaha16/cs429/projects/proj1/lb-lab-NoahA26:
+total 52
+-rw------- 1 noaha16 under 2167 Jan 14 14:56 structs.h
+-rw------- 1 noaha16 under 1745 Jan 14 14:56 structs.c
+-rw------- 1 noaha16 under  105 Jan 14 14:56 strings.h
+-rw------- 1 noaha16 under 2644 Jan 14 14:56 strings.c
+-rw------- 1 noaha16 under 2002 Jan 14 14:56 README.md
+-rw------- 1 noaha16 under   62 Jan 14 14:56 pointers.h
+-rw------- 1 noaha16 under 4853 Jan 14 14:56 pointers.c
+-rw------- 1 noaha16 under  750 Jan 14 14:56 partB-ref-20.txt
+-rw------- 1 noaha16 under  771 Jan 14 14:56 partB-ref-18.txt
+-rw------- 1 noaha16 under    0 Jan 17 17:16 partA.txt
+-rw------- 1 noaha16 under 3084 Jan 14 14:56 Makefile
+-rw------- 1 noaha16 under 6220 Jan 14 14:56 main.c
+-rw------- 1 noaha16 under  903 Jan 14 14:56 debug.c
